@@ -1,0 +1,23 @@
+
+# .env
+# .venv/
+# __pycache__/
+# *.pyc
+# .pytest_cache/
+# data/processed/
+
+
+
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/processed/
+logs/
+
+# Backup files
+*_backup.py
+*_backup.csv
+
+results_backup_before_merge.csv

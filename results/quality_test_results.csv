@@ -1,0 +1,16 @@
+test_id,question,status,response_time,response
+1,Explain the Transformer architecture.,PASS,0.0001,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: Explain the Transformer architecture.
+Note: This response is generated for testing only, not by a real AI model."
+2,What is self-attention?,PASS,0.0001,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: What is self-attention?
+Note: This response is generated for testing only, not by a real AI model."
+3,Explain multi-head attention.,PASS,0.0001,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: Explain multi-head attention.
+Note: This response is generated for testing only, not by a real AI model."
+4,What is the purpose of positional encoding?,PASS,0.0001,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: What is the purpose of positional encoding?
+Note: This response is generated for testing only, not by a real AI model."
+5,Explain scaled dot-product attention.,PASS,0.0001,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: Explain scaled dot-product attention.
+Note: This response is generated for testing only, not by a real AI model."

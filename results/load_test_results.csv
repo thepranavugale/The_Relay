@@ -1,0 +1,136 @@
+request_id,scenario,status,response_time,response,total_execution_time
+1,burst_load,SUCCESS,1.0006,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 1
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+2,burst_load,SUCCESS,1.0008,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 2
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+3,burst_load,SUCCESS,1.0006,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 3
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+4,burst_load,SUCCESS,1.0009,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 4
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+5,burst_load,SUCCESS,1.0006,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 5
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+6,burst_load,SUCCESS,1.0013,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 6
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+7,burst_load,SUCCESS,1.004,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 7
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+8,burst_load,SUCCESS,1.0082,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 8
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+9,burst_load,SUCCESS,1.0072,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 9
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+10,burst_load,SUCCESS,1.0012,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 10
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+11,burst_load,SUCCESS,1.0006,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 11
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+12,burst_load,SUCCESS,1.0014,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 12
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+13,burst_load,SUCCESS,1.0012,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 13
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+14,burst_load,SUCCESS,1.0012,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 14
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+15,burst_load,SUCCESS,1.0007,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: burst_load research question 15
+Note: This response is generated for testing only, not by a real AI model.",1.0186
+1,steady_load,SUCCESS,1.0022,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: steady_load research question 1
+Note: This response is generated for testing only, not by a real AI model.",5.01
+2,steady_load,SUCCESS,1.0006,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: steady_load research question 2
+Note: This response is generated for testing only, not by a real AI model.",5.01
+3,steady_load,SUCCESS,1.0021,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: steady_load research question 3
+Note: This response is generated for testing only, not by a real AI model.",5.01
+4,steady_load,SUCCESS,1.0014,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: steady_load research question 4
+Note: This response is generated for testing only, not by a real AI model.",5.01
+5,steady_load,SUCCESS,1.0014,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: steady_load research question 5
+Note: This response is generated for testing only, not by a real AI model.",5.01
+6,steady_load,SUCCESS,1.0018,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: steady_load research question 6
+Note: This response is generated for testing only, not by a real AI model.",5.01
+7,steady_load,SUCCESS,1.0021,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: steady_load research question 7
+Note: This response is generated for testing only, not by a real AI model.",5.01
+8,steady_load,SUCCESS,1.001,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: steady_load research question 8
+Note: This response is generated for testing only, not by a real AI model.",5.01
+9,steady_load,SUCCESS,1.0015,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: steady_load research question 9
+Note: This response is generated for testing only, not by a real AI model.",5.01
+10,steady_load,SUCCESS,1.0014,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: steady_load research question 10
+Note: This response is generated for testing only, not by a real AI model.",5.01
+1,sustained_overload,SUCCESS,2.0006,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 1
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+2,sustained_overload,SUCCESS,2.0007,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 2
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+3,sustained_overload,SUCCESS,2.0008,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 3
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+4,sustained_overload,SUCCESS,2.0007,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 4
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+5,sustained_overload,SUCCESS,2.0009,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 5
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+6,sustained_overload,SUCCESS,2.0016,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 6
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+7,sustained_overload,SUCCESS,2.0026,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 7
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+8,sustained_overload,SUCCESS,2.0016,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 8
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+9,sustained_overload,SUCCESS,2.003,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 9
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+10,sustained_overload,SUCCESS,2.0043,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 10
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+11,sustained_overload,SUCCESS,2.0319,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 11
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+12,sustained_overload,SUCCESS,2.0315,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 12
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+13,sustained_overload,SUCCESS,2.0321,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 13
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+14,sustained_overload,SUCCESS,2.0294,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 14
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+15,sustained_overload,SUCCESS,2.0488,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 15
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+16,sustained_overload,SUCCESS,2.0028,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 16
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+17,sustained_overload,SUCCESS,2.0032,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 17
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+18,sustained_overload,SUCCESS,2.001,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 18
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+19,sustained_overload,SUCCESS,2.0016,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 19
+Note: This response is generated for testing only, not by a real AI model.",8.0738
+20,sustained_overload,SUCCESS,2.0152,"This is a simulated response from The Relay Stand-In Model.
+Your prompt was: sustained_overload research question 20
+Note: This response is generated for testing only, not by a real AI model.",8.0738
